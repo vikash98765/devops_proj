@@ -122,7 +122,7 @@ aside.menu-sidebar.d-none.d-lg-block.clr{
     box-shadow:-2px 0 4px #0000003b
 }
 
-/* 
+/*
  * ----------------------------
  * Header Desktop Section
  * ----------------------------
@@ -302,7 +302,7 @@ input.au-input.au-input-xl{
     transform:translate(-50%,-50%)
 }
 
-/* 
+/*
  * ----------------------------
  * Left Menu Bar
  * ----------------------------
@@ -320,7 +320,7 @@ input.au-input.au-input-xl{
 
 .menu-sidebar .logo{
     background:#fff;
-    height:75px;
+    height:80px;
     padding:0 35px;
     display:-webkit-box;
     display:-webkit-flex;
@@ -376,7 +376,7 @@ input.au-input.au-input-xl{
     color:#0da8e4
 }
 
-/* 
+/*
  * ----------------------------
  * Header Mobile Section
  * ----------------------------
@@ -512,7 +512,7 @@ input.au-input.au-input-xl{
     padding:10% 15%!important
 }
 
-/* 
+/*
  * ----------------------------
  * Products List
  * ----------------------------
@@ -554,7 +554,7 @@ input.au-input.au-input-xl{
     color:#585858
 }
 
-/* 
+/*
  * ----------------------------
  * Shopping Cart Checkout
  * ----------------------------
@@ -668,7 +668,7 @@ select{
     color:#828482
 }
 
-/* 
+/*
  * ----------------------------
  * Shopping Cart Details
  * ----------------------------
@@ -703,7 +703,7 @@ table.table.table-bordered th{
     margin-left:5px
 }
 
-/* 
+/*
  * ----------------------------
  * Product Details
  * ----------------------------
@@ -719,7 +719,7 @@ table.table.table-bordered th{
 }
 /**/
 
-/* 
+/*
  * ----------------------------
  * Buttons
  * ----------------------------
@@ -749,7 +749,7 @@ a.primary-btn:hover{
   font-weight: bold;
 }
 
-/* 
+/*
  * ----------------------------
  * Footer section
  * ----------------------------
@@ -774,7 +774,7 @@ footer ul li{
     padding:10px 20px
 }
 
-/* 
+/*
  * ----------------------------
  * Media Queries
  * ----------------------------
