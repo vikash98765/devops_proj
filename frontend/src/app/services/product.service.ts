@@ -8,6 +8,9 @@ import { map } from 'rxjs/operators';
   providedIn: 'root'
 })
 export class ProductService {
+  getProductCategories() {
+    throw new Error('Method not implemented.');
+  }
 
   private baseUrl = 'http://localhost:8080/api/products';
   private categoryUrl = 'http://localhost:8080/api/product-category';
